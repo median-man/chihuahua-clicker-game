@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chihuahua-clicker-game/static/css/main.2cce8147.chunk.css",
+    "main.js": "/chihuahua-clicker-game/static/js/main.779ff36e.chunk.js",
+    "main.js.map": "/chihuahua-clicker-game/static/js/main.779ff36e.chunk.js.map",
+    "runtime~main.js": "/chihuahua-clicker-game/static/js/runtime~main.303f4048.js",
+    "runtime~main.js.map": "/chihuahua-clicker-game/static/js/runtime~main.303f4048.js.map",
+    "static/js/2.b41502e9.chunk.js": "/chihuahua-clicker-game/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/chihuahua-clicker-game/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/chihuahua-clicker-game/index.html",
+    "precache-manifest.95fe700d91c07d149509f7931096b0f9.js": "/chihuahua-clicker-game/precache-manifest.95fe700d91c07d149509f7931096b0f9.js",
+    "service-worker.js": "/chihuahua-clicker-game/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/chihuahua-clicker-game/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/chihuahua-clicker-game/static/media/logo.5d5d9eef.svg"
+  }
+}
