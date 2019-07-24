@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chihuahua-clicker-game/precache-manifest.95fe700d91c07d149509f7931096b0f9.js"
+  "/chihuahua-clicker-game/precache-manifest.72809891f83ca8f23b9c0c96d8cd987a.js"
 );
 
 self.addEventListener('message', (event) => {
